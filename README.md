@@ -49,6 +49,19 @@ Typical sections in this fork include:
 - `examplecase` — example notes and structures
 - `SHUM` — organization-specific additions
 
+### SHUM reporting templates (`SHUM/`)
+
+Language-specific **Markdown** templates live under `MD/`; matching **Word** sources live under `RTF/` (historical folder name — files are `.docx`).
+
+| Path | Contents |
+|------|----------|
+| `SHUM/ENG/MD/` | English Markdown templates (e.g. company report, battle damage assessment) |
+| `SHUM/ENG/RTF/` | English Word sources for those templates |
+| `SHUM/UKR/MD/` | Ukrainian Markdown templates (e.g. organization report, battle damage assessment) |
+| `SHUM/UKR/RTF/` | Ukrainian Word sources for those templates |
+
+Copy or link the `MD` files into an Obsidian vault as starter notes; edit the `RTF` documents when the canonical wording in Word should change, then refresh the Markdown if you keep them in sync.
+
 ## Development approach
 
 SHUM uses this fork as a foundation for further work. New templates and workflows may be added for:
