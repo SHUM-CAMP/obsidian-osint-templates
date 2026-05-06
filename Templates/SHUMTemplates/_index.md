@@ -1,21 +1,23 @@
 # SHUM Templates
 
-Canonical sources:
-- `SHUM/ENG/MD/`
-- `SHUM/UKR/MD/`
+Ready-to-use template copies:
 
 ## ENG
-- `SHUM/ENG/MD/Methodology_and_templates.md`
-- `SHUM/ENG/MD/Instructions_for_filling_templates.md`
-- `SHUM/ENG/MD/Personal_data_profile.md`
-- `SHUM/ENG/MD/Location.md`
-- `SHUM/ENG/MD/Company_report.md`
-- `SHUM/ENG/MD/StrikeAssessment.md`
+- `Templates/SHUMTemplates/ENG/Methodology_and_templates.md`
+- `Templates/SHUMTemplates/ENG/Instructions_for_filling_templates.md`
+- `Templates/SHUMTemplates/ENG/Personal_data_profile.md`
+- `Templates/SHUMTemplates/ENG/Location.md`
+- `Templates/SHUMTemplates/ENG/Company_report.md`
+- `Templates/SHUMTemplates/ENG/StrikeAssessment.md`
 
 ## UKR
-- `SHUM/UKR/MD/Методологія та шаблони.md`
-- `SHUM/UKR/MD/Інструкція по заповненню робочих шаблонів.md`
-- `SHUM/UKR/MD/Анкета персональних даних.md`
-- `SHUM/UKR/MD/Локація.md`
-- `SHUM/UKR/MD/Звіт щодо організації.md`
-- `SHUM/UKR/MD/Контроль уражень.md`
+- `Templates/SHUMTemplates/UKR/Методологія та шаблони.md`
+- `Templates/SHUMTemplates/UKR/Інструкція по заповненню робочих шаблонів.md`
+- `Templates/SHUMTemplates/UKR/Анкета персональних даних.md`
+- `Templates/SHUMTemplates/UKR/Локація.md`
+- `Templates/SHUMTemplates/UKR/Звіт щодо організації.md`
+- `Templates/SHUMTemplates/UKR/Контроль уражень.md`
+
+Original source folders:
+- `SHUM/ENG/MD/`
+- `SHUM/UKR/MD/`

@@ -1,6 +1,6 @@
 # Unified Obsidian OSINT Vault (WebBreacher + SHUM)
 
-This repository is a single, clone-ready Obsidian vault that combines:
+This repository is a single, clone-ready Obsidian vault that combines the full:
 - WebBreacher original templates, SOP notes, and examples
 - SHUM methodology and reporting templates in English and Ukrainian
 
@@ -23,7 +23,7 @@ The curation policy is side-by-side preservation: both sources remain intact and
 - `01_QuickStart.md` - onboarding and workflow
 - `Templates/` - template indexes for WebBreacher and SHUM
 - `Methodology/` - SOP and methodology indexes
-- `ReportTemplates/` - SHUM ENG/UKR report packs
+- `ReportTemplates/` - SHUM ENG/UKR report packs with parallel MD and DOCX folders
 - `Examples/` - links into WebBreacher example case materials
 - `WebBreacher originals/` - preserved upstream snapshot
 - `SHUM/` - preserved SHUM materials (MD and DOCX)
@@ -31,7 +31,7 @@ The curation policy is side-by-side preservation: both sources remain intact and
 
 ## SHUM reporting templates
 
-Language-specific Markdown templates live under `MD/`; matching Word sources live under `RTF/` (historical folder name, files are `.docx`).
+Language-specific Markdown templates live under `MD/`; matching Word sources live under `RTF/` (historical folder name, files are `.docx`). This branch also provides Obsidian-ready report packs in `ReportTemplates/ENG/{MD,DOCX}` and `ReportTemplates/UKR/{MD,DOCX}`.
 
 | Path | Contents |
 |------|----------|
@@ -46,6 +46,15 @@ Language-specific Markdown templates live under `MD/`; matching Word sources liv
 - Added bilingual ENG/UKR template organization.
 - Added root-level navigation notes and section indexes for faster discovery.
 - Added root `.obsidian` defaults focused on portability (avoids machine-specific workspace layout files).
+- Added canonical `Templates/` copies for direct insertion via Obsidian Templates plugin.
+- Added coverage checklist notes to verify full source inclusion.
+
+## Obsidian template workflow
+
+- Template folder is configured as `Templates` in `.obsidian/templates.json`.
+- Insert with Obsidian command palette: `Templates: Insert template`.
+- Use `Templates/WebBreacherTemplates/` and `Templates/SHUMTemplates/{ENG,UKR}/` as canonical insertion paths.
+- Keep working case notes outside `Templates/` so source templates remain immutable.
 
 ## How SHUM pack fits in
 

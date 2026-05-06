@@ -1,17 +1,19 @@
 # Report Templates Index
 
-## English Pack
-- `SHUM/ENG/MD/Company_report.md`
-- `SHUM/ENG/MD/StrikeAssessment.md`
-- `SHUM/ENG/MD/Personal_data_profile.md`
-- `SHUM/ENG/MD/Location.md`
+SHUM reports are provided in parallel structures:
+- Markdown for Obsidian editing
+- DOCX for external sharing/legacy workflows
 
-## Ukrainian Pack
-- `SHUM/UKR/MD/Звіт щодо організації.md`
-- `SHUM/UKR/MD/Контроль уражень.md`
-- `SHUM/UKR/MD/Анкета персональних даних.md`
-- `SHUM/UKR/MD/Локація.md`
+## ENG
+- Markdown pack: `ReportTemplates/ENG/MD/`
+- DOCX pack: `ReportTemplates/ENG/DOCX/`
+- Usage note: `ReportTemplates/ENG/_README.md`
 
-## Word Source Files
-- ENG: `SHUM/ENG/RTF/`
-- UKR: `SHUM/UKR/RTF/`
+## UKR
+- Markdown pack: `ReportTemplates/UKR/MD/`
+- DOCX pack: `ReportTemplates/UKR/DOCX/`
+- Usage note: `ReportTemplates/UKR/_README.md`
+
+## Validation
+- Coverage checklist: `ReportTemplates/_coverage_checklist.md`
+- Source snapshots: `SHUM/ENG/MD/`, `SHUM/ENG/RTF/`, `SHUM/UKR/MD/`, `SHUM/UKR/RTF/`

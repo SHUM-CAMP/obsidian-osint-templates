@@ -1,8 +1,11 @@
 # WebBreacher Templates
 
-Canonical source: `WebBreacher originals/-- templates/`
+Ready-to-use template copies:
 
-- `WebBreacher originals/-- templates/person.md`
-- `WebBreacher originals/-- templates/person_intelligence.md`
-- `WebBreacher originals/-- templates/domain or ip.md`
-- `WebBreacher originals/-- templates/ancestry_template.md`
+- `Templates/WebBreacherTemplates/person.md`
+- `Templates/WebBreacherTemplates/person_intelligence.md`
+- `Templates/WebBreacherTemplates/domain or ip.md`
+- `Templates/WebBreacherTemplates/ancestry_template.md`
+
+Original source snapshot:
+- `WebBreacher originals/-- templates/`
