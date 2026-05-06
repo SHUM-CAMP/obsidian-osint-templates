@@ -17,3 +17,6 @@ SHUM reports are provided in parallel structures:
 ## Validation
 - Coverage checklist: `ReportTemplates/_coverage_checklist.md`
 - Source snapshots: `SHUM/ENG/MD/`, `SHUM/ENG/RTF/`, `SHUM/UKR/MD/`, `SHUM/UKR/RTF/`
+
+## Delivery pipeline
+- Draft, QA, and publish workflow: `Reports/_index.md`

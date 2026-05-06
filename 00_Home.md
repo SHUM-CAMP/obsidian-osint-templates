@@ -10,6 +10,9 @@ This repository is a single, clone-ready Obsidian vault that combines:
 - Browse `Methodology/_index.md`
 - Browse `ReportTemplates/_index.md`
 - Browse `Examples/_index.md`
+- Browse `Operations/_index.md`
+- Browse `Reports/_index.md`
+- Browse `Training/_index.md`
 - Validate coverage with `Templates/_coverage_checklist.md`
 - Validate report packs with `ReportTemplates/_coverage_checklist.md`
 

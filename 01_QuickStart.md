@@ -11,6 +11,9 @@
 - `Methodology/_index.md`
 - `ReportTemplates/_index.md`
 - `ReportTemplates/_coverage_checklist.md`
+- `Operations/_index.md`
+- `Reports/_index.md`
+- `Training/_index.md`
 
 ## 3) Working model
 - Use SHUM and WebBreacher content side-by-side
@@ -21,6 +24,13 @@
 ## 4) Plugin posture
 - Core Obsidian plugins are enabled by default in `.obsidian/core-plugins.json`
 - Community plugin references are intentionally minimal for portability
+- Recommended balanced additions:
+  - `dataview`
+  - `quickadd`
+  - `templater-obsidian`
+  - `metadata-menu`
+  - `obsidian-kanban`
+  - `periodic-notes`
 
 ## 5) Using this as an Obsidian template vault
 1. Confirm the Templates core plugin is enabled in Obsidian.
@@ -34,3 +44,6 @@
 ## 6) Suggested naming for generated notes
 - Use case-based names, for example: `case-2026-05-targetname.md`
 - Keep created investigation outputs outside `Templates/` to preserve template originals
+
+## 7) Operational metadata contract
+- Use fields from `Operations/Metadata_contract.md` for new case/entity/source/evidence notes.

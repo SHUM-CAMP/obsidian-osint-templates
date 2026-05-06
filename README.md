@@ -24,6 +24,9 @@ The curation policy is side-by-side preservation: both sources remain intact and
 - `Templates/` - template indexes for WebBreacher and SHUM
 - `Methodology/` - SOP and methodology indexes
 - `ReportTemplates/` - SHUM ENG/UKR report packs with parallel MD and DOCX folders
+- `Operations/` - case lifecycle, handoffs, review queues, and metadata contract
+- `Reports/` - report production pipeline (draft -> QA -> approved -> published)
+- `Training/` - onboarding and exercise tracks
 - `Examples/` - links into WebBreacher example case materials
 - `WebBreacher originals/` - preserved upstream snapshot
 - `SHUM/` - preserved SHUM materials (MD and DOCX)
@@ -55,6 +58,23 @@ Language-specific Markdown templates live under `MD/`; matching Word sources liv
 - Insert with Obsidian command palette: `Templates: Insert template`.
 - Use `Templates/WebBreacherTemplates/` and `Templates/SHUMTemplates/{ENG,UKR}/` as canonical insertion paths.
 - Keep working case notes outside `Templates/` so source templates remain immutable.
+
+## Expansion best practices
+
+- Use a shared metadata schema from `Operations/Metadata_contract.md` for all operational notes.
+- Keep evidence traceability strict: each report claim references source and evidence notes.
+- Follow a review flow before publication: peer review -> QA -> signoff.
+- Use role-based operational pages in `Operations/` and reporting pipeline docs in `Reports/`.
+
+## Balanced plugin recommendations
+
+Recommended additions for this vault profile:
+- `dataview`
+- `quickadd`
+- `templater-obsidian`
+- `metadata-menu`
+- `obsidian-kanban`
+- `periodic-notes`
 
 ## How SHUM pack fits in
 
