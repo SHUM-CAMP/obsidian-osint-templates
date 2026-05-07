@@ -17,6 +17,20 @@ The curation policy is side-by-side preservation: both sources remain intact and
    - `Methodology/_index.md`
    - `ReportTemplates/_index.md`
 
+Current development version: see `VERSION` (`0.1.0`).
+Change history: see `CHANGELOG.md`.
+
+## Versioning policy (pre-1.0)
+
+This repository uses Semantic Versioning in the `0.x.y` phase while the vault is
+still in active development before `1.0.0`.
+
+- Minor (`0.x.0`): meaningful additions or reorganizations (new template packs,
+  methodology sections, structure updates).
+- Patch (`0.0.x`): small non-breaking improvements (typos, wording, metadata fixes).
+- Breaking reorganizations can still happen before `1.0.0`; record them clearly in
+  `CHANGELOG.md` under `Changed` and `Removed`.
+
 ## Unified structure
 
 - `00_Home.md` - vault landing page
