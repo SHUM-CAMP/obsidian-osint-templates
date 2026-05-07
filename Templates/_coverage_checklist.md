@@ -21,3 +21,6 @@
 - [x] `SHUM/UKR/MD/Контроль уражень.md` -> `Templates/SHUMTemplates/UKR/Контроль уражень.md`
 - [x] `SHUM/UKR/MD/Локація.md` -> `Templates/SHUMTemplates/UKR/Локація.md`
 - [x] `SHUM/UKR/MD/Методологія та шаблони.md` -> `Templates/SHUMTemplates/UKR/Методологія та шаблони.md`
+
+## Vault discoverability
+- [x] `Templates/SHUMTemplates/UKR/` is indexed in `Templates/SHUMTemplates/_index.md`

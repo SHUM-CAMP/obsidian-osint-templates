@@ -17,6 +17,7 @@ Ready-to-use template copies:
 - `Templates/SHUMTemplates/UKR/Локація.md`
 - `Templates/SHUMTemplates/UKR/Звіт щодо організації.md`
 - `Templates/SHUMTemplates/UKR/Контроль уражень.md`
+- This UKR pack is tracked in git and intended as clone-ready canonical templates for Obsidian.
 
 Original source folders:
 - `SHUM/ENG/MD/`

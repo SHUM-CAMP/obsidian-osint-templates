@@ -31,3 +31,6 @@
 - [x] `SHUM/UKR/RTF/Шаблон Локація.docx` -> `ReportTemplates/UKR/DOCX/Шаблон Локація.docx`
 - [x] `SHUM/UKR/RTF/ШаблонКУ.docx` -> `ReportTemplates/UKR/DOCX/ШаблонКУ.docx`
 - [x] `SHUM/UKR/RTF/ШаблонОрганізації.docx` -> `ReportTemplates/UKR/DOCX/ШаблонОрганізації.docx`
+
+## Vault discoverability
+- [x] UKR pack entry points are documented in `ReportTemplates/_index.md` and `ReportTemplates/UKR/_README.md`

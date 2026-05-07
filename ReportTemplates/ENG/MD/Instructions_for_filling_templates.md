@@ -36,9 +36,9 @@
 - Add current building photos, ideally from multiple angles.
 - Put any additional important details into notes.
 
-## Government Authorities Guide
+## Position Data Verification
 
 - Each folder should contain a regional copy used to create profiles by template.
 - Before creating a profile, verify each position and full name for current relevance.
-- If current data differs from the guide file, add a comment in your working document.
+- If current data differs from internal reference data, add a comment in your working document.
 - Create profiles only for persons with enough available information.
