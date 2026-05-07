@@ -1,5 +1,8 @@
 [
   "obsidian-tasks-plugin",
   "obsidian-map-view",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "docx-viewer",
+  "docxer",
+  "open-with"
 ]

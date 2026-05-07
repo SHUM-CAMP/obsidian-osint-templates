@@ -23,16 +23,23 @@
 
 ## 4) Plugin posture
 - Core Obsidian plugins are enabled by default in `.obsidian/core-plugins.json`
-- Community plugin references are intentionally minimal for portability
-- Recommended balanced additions:
-  - `dataview`
-  - `quickadd`
-  - `templater-obsidian`
-  - `metadata-menu`
-  - `obsidian-kanban`
-  - `periodic-notes`
+- Community plugins are prebuilt for reporting workflows:
+  - `docx-viewer` (primary in-app DOCX reader)
+  - `docxer` (fallback DOCX preview and conversion)
+  - `open-with` (open DOCX in system Word/LibreOffice when needed)
+  - `obsidian-tasks-plugin`
+  - `obsidian-map-view`
+  - `obsidian-leaflet-plugin`
 
-## 5) Using this as an Obsidian template vault
+## 5) DOCX in Obsidian
+- Browse report artifacts in `ReportTemplates/*/DOCX/`.
+- Open a `.docx` file directly in Obsidian; `docx-viewer` is the default reader.
+- If rendering is imperfect for a specific file, use fallback options:
+  1. Open with `docxer`.
+  2. Use `open-with` to open in your system app (Word/LibreOffice).
+- Author case content in markdown (`ReportTemplates/*/MD/`) and use DOCX primarily for reporting review/export handoff.
+
+## 6) Using this as an Obsidian template vault
 1. Confirm the Templates core plugin is enabled in Obsidian.
 2. Confirm template folder is `Templates` (`.obsidian/templates.json`).
 3. Use command palette: `Templates: Insert template`.
@@ -41,9 +48,9 @@
    - `Templates/SHUMTemplates/ENG/...`
    - `Templates/SHUMTemplates/UKR/...`
 
-## 6) Suggested naming for generated notes
+## 7) Suggested naming for generated notes
 - Use case-based names, for example: `case-2026-05-targetname.md`
 - Keep created investigation outputs outside `Templates/` to preserve template originals
 
-## 7) Operational metadata contract
+## 8) Operational metadata contract
 - Use fields from `Operations/Metadata_contract.md` for new case/entity/source/evidence notes.

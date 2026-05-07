@@ -66,15 +66,20 @@ Language-specific Markdown templates live under `MD/`; matching Word sources liv
 - Follow a review flow before publication: peer review -> QA -> signoff.
 - Use role-based operational pages in `Operations/` and reporting pipeline docs in `Reports/`.
 
-## Balanced plugin recommendations
+## Prebuilt plugin bundle
 
-Recommended additions for this vault profile:
-- `dataview`
-- `quickadd`
-- `templater-obsidian`
-- `metadata-menu`
-- `obsidian-kanban`
-- `periodic-notes`
+The vault ships with a curated plugin set pre-enabled in `.obsidian/community-plugins.json`:
+- `docx-viewer` (primary in-app DOCX rendering)
+- `docxer` (fallback DOCX preview + markdown conversion)
+- `open-with` (system-app fallback for Word/LibreOffice)
+- `obsidian-tasks-plugin`
+- `obsidian-map-view`
+- `obsidian-leaflet-plugin`
+
+DOCX workflow intent:
+- author and iterate in markdown (`ReportTemplates/*/MD/`)
+- review/export and handoff in DOCX (`ReportTemplates/*/DOCX/`)
+- if in-app rendering fails for a file, use `open-with` as a one-click external fallback
 
 ## How SHUM pack fits in
 
