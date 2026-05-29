@@ -1,13 +1,12 @@
 # Dark Web Playbook
 
 ## Objective
-Document dark web findings with clear legality and chain-of-custody notes.
+Document dark web findings with clear legal basis and chain-of-custody notes.
 
 ## Minimum evidence threshold
-- Timestamped capture record
-- Source context and access path notes
-- Risk and confidence assessment
-
+- Timestamped evidence capture
+- Source context and access methodology
+- Risk and confidence evaluation
 ## Operational safeguards
 - Do not store sensitive credentials in notes.
 - Separate raw captures from analytical summaries.
