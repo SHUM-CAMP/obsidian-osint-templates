@@ -225,7 +225,7 @@ Dark Web Search
 (keep as is for now)
 
 Successful prompts input (for GITHUB, website and tutorials)
-Currently the requests really don’t matters only identifiers matter. For example if you input “please find the companies connected to Vladimir Putin” the tool will not literally answer this but will fill in one of the pre-selected templates (scan/search categories). 
+Currently the requests really don’t matter; only identifiers matter. For example if you input “please find the companies connected to Vladimir Putin” the tool will not literally answer this but will fill in one of the pre-selected templates (scan/search categories). 
 Therefore, it is recommended that you be accurate as possible with your identifiers and chose the right scan/search for your needs. 
 Here is the full option of scans/searches available: 
     • Full Investigation Report

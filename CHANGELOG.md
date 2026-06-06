@@ -15,6 +15,17 @@ and this project follows pre-1.0 [Semantic Versioning](https://semver.org/spec/v
 
 ### Removed
 
+## [0.1.1] - 2026-06-05
+
+### Added
+
+### Changed
+
+### Fixed
+- Correct subject-verb agreement in `Templates/SHUMTemplates/ENG/Methodology_and_templates.md` (`don't matters` → `don't matter`).
+
+### Removed
+
 ## [0.1.0] - 2026-05-07
 
 ### Added
