@@ -11,6 +11,7 @@
 - `Methodology/_index.md`
 - `ReportTemplates/_index.md`
 - `ReportTemplates/_coverage_checklist.md`
+- `Examples/_index.md`
 - `Operations/_index.md`
 - `Reports/_index.md`
 - `Training/_index.md`
