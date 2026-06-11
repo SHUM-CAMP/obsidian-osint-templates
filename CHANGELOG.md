@@ -15,6 +15,11 @@ and this project follows pre-1.0 [Semantic Versioning](https://semver.org/spec/v
 
 ### Removed
 
+## [0.1.2] - 2026-06-11
+
+### Changed
+- Quick Start onboarding now links the Examples index (`Examples/_index.md`) in the recommended first notes.
+
 ## [0.1.1] - 2026-06-05
 
 ### Added

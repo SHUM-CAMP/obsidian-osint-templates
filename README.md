@@ -17,7 +17,7 @@ The curation policy is side-by-side preservation: both sources remain intact and
    - `Methodology/_index.md`
    - `ReportTemplates/_index.md`
 
-Current development version: see `VERSION` (`0.1.1`).
+Current development version: see `VERSION` (`0.1.2`).
 Change history: see `CHANGELOG.md`.
 
 ## Versioning policy (pre-1.0)
