@@ -1,13 +1,13 @@
 # Geolocation Playbook
 
 ## Objective
-Validate location claims using visual and map-based evidence.
+Validate geolocation claims using visual, geospatial, and contextual evidence.
 
 ## Minimum evidence threshold
-- 2+ independent geospatial indicators.
-- Coordinate precision documented with uncertainty note.
+- Verification supported by at least two independent geospatial indicators.
+- Coordinate precision documented alongside uncertainty estimates.
 
 ## Confidence checks
-- Landmark match confidence
+- Confidence in landmark correlation
 - Temporal consistency
-- Alternate hypotheses considered
+- Alternative hypotheses considered
