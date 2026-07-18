@@ -1,16 +1,13 @@
 # Quick Start
 
 ## 1) Clone and open
-1. `git clone <repo-url>`
+1. `git clone <repo-https://github.com/SHUM-CAMP/obsidian-osint-templates>`
 2. Open the repository folder as an Obsidian vault
 
 ## 2) Recommended first notes
 - `00_Home.md`
-- `Templates/_coverage_checklist.md`
-- `Templates/_index.md`
+- `SHUM_Templates/_index.md`
 - `Methodology/_index.md`
-- `ReportTemplates/_index.md`
-- `ReportTemplates/_coverage_checklist.md`
 - `Examples/_index.md`
 - `Operations/_index.md`
 - `Reports/_index.md`
@@ -18,9 +15,9 @@
 
 ## 3) Working model
 - Use SHUM and WebBreacher content side-by-side
-- Reuse templates from `Templates/`
 - Follow SOP/methodology from `Methodology/`
-- Use ENG/UKR report packs from `ReportTemplates/`
+- Use ENG/UKR report packs from `SHUM_Templates/ENG/` and `SHUM_Templates/UKR/`
+- Use original templates from `WebBreacher_originals/WebBreacher_Templates/`
 
 ## 4) Plugin posture
 - Core Obsidian plugins are enabled by default in `.obsidian/core-plugins.json`
@@ -33,25 +30,24 @@
   - `obsidian-leaflet-plugin`
 
 ## 5) DOCX in Obsidian
-- Browse report artifacts in `ReportTemplates/*/DOCX/`.
+- Browse report artifacts in `SHUM_Templates/*/RTF/`.
 - Open a `.docx` file directly in Obsidian; `docx-viewer` is the default reader.
 - If rendering is imperfect for a specific file, use fallback options:
   1. Open with `docxer`.
   2. Use `open-with` to open in your system app (Word/LibreOffice).
-- Author case content in markdown (`ReportTemplates/*/MD/`) and use DOCX primarily for reporting review/export handoff.
+- Author case content in markdown (`SHUM_Templates/*/MD/`) and use DOCX primarily for reporting review/export handoff.
 
 ## 6) Using this as an Obsidian template vault
 1. Confirm the Templates core plugin is enabled in Obsidian.
-2. Confirm template folder is `Templates` (`.obsidian/templates.json`).
-3. Use command palette: `Templates: Insert template`.
-4. Pick from:
-   - `Templates/WebBreacherTemplates/...`
-   - `Templates/SHUMTemplates/ENG/...`
-   - `Templates/SHUMTemplates/UKR/...`
+2. Use command palette: `Templates: Insert template`.
+3. Pick from:
+   - `WebBreacher_originals/WebBreacher_Templates/...`
+   - `SHUM_Templates/ENG/...`
+   - `SHUM_Templates/UKR/...`
 
 ## 7) Suggested naming for generated notes
 - Use case-based names, for example: `case-2026-05-targetname.md`
-- Keep created investigation outputs outside `Templates/` to preserve template originals
+- Keep created investigation outputs outside `SHUM_Templates/` or `WebBreacher_originals/WebBreacher_Templates/` to preserve template originals
 
 ## 8) Operational metadata contract
 - Use fields from `Operations/Metadata_contract.md` for new case/entity/source/evidence notes.

@@ -13,4 +13,4 @@ Use this section for team execution, coordination, and QA.
 ## Related sections
 - Reporting pipeline: `Reports/_index.md`
 - Methodology playbooks: `Methodology/Playbooks/_index.md`
-- Templates: `Templates/_index.md`
+- Templates: `SHUM_Templates/_index.md`

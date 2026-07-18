@@ -1,0 +1,76 @@
+# Personal Data Profile
+
+**Photo:**
+
+**Full name:**
+
+**Full name (Ukr):**
+
+**Date of birth:**
+
+**Age:**
+
+**Place of birth:**
+
+**Additional addresses:**
+
+**Full position title:**
+
+**Rank:**
+
+**Places of work:**
+
+**Organizations:**
+
+## Contact details
+
+|                  Account type                |          | Comments |
+| -------------------------------------------- | -------- | -------- |
+| Primary phone number                         |          |          |
+| Primary social account                       |          |          |
+| Phone numbers                                |          |          |
+| Email                                        |          |          |
+| Telegram (ID/link/number/username)           |          |          |
+| WhatsApp (ID/link/number/username)           |          |          |
+| Signal (ID/link/number/username)             |          |          |
+| MAX (ID/link/number/username)                |          |          |  
+| VK (ID/link/number/username)                 |          |          |
+| Instagram (ID/link/number/username)          |          |          |
+| OK (ID/link/number/username)                 |          |          |
+| Facebook (ID/link/number/username)           |          |          |
+| TikTok (ID/link/number/username)             |          |          | 
+| Other social networks                        |          |          |  
+
+## Passport / ID data
+
+**Passport number:**
+
+**TIN:**
+
+**SNILS:**
+
+**Driver's license:**
+
+## Vehicle
+
+**Brand:**
+
+**Registration number:**
+
+**VIN:**
+
+## Related persons
+
+**Related persons (full names):**
+
+**Date of birth:**
+
+**Relationship type:**
+
+**Phone numbers:**
+
+**Social networks:**
+
+**Shared organizations:**
+
+## Notes

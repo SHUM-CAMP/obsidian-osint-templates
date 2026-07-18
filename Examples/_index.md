@@ -1,8 +1,8 @@
 # Examples Index
 
-Canonical source: `WebBreacher originals/examplecase/`
+Canonical source: `WebBreacher_originals/examplecase/`
 
-- `WebBreacher originals/examplecase/Example standalone mindmap.md`
-- `WebBreacher originals/examplecase/-tasks for example files.md`
-- `WebBreacher originals/examplecase/selectors/`
-- `WebBreacher originals/examplecase/media/`
+- `WebBreacher_originals/examplecase/Example standalone mindmap.md`
+- `WebBreacher_originals/examplecase/-tasks for example files.md`
+- `WebBreacher_originals/examplecase/selectors/`
+- `WebBreacher_originals/examplecase/media/`
